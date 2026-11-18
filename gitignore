@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivo de datos pesado original (no es necesario para correr la app)
+data/train-00000-of-00001-63e70a4e57b07742.parquet
