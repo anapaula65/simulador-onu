@@ -1,0 +1,106 @@
+pais_a,pais_b,valor
+Estados Unidos,Rusia,0.5
+Estados Unidos,China,0.5
+Estados Unidos,Francia,0.5
+Estados Unidos,Reino Unido,0.5
+Estados Unidos,Argelia,0.5
+Estados Unidos,Ecuador,0.5
+Estados Unidos,Guyana,0.5
+Estados Unidos,Japón,0.5
+Estados Unidos,Malta,0.5
+Estados Unidos,Mozambique,0.5
+Estados Unidos,República de Corea,0.5
+Estados Unidos,Sierra Leona,0.5
+Estados Unidos,Eslovenia,0.5
+Estados Unidos,Suiza,0.5
+Rusia,China,0.5
+Rusia,Francia,0.5
+Rusia,Reino Unido,0.5
+Rusia,Argelia,0.5
+Rusia,Ecuador,0.5
+Rusia,Guyana,0.5
+Rusia,Japón,0.5
+Rusia,Malta,0.5
+Rusia,Mozambique,0.5
+Rusia,República de Corea,0.5
+Rusia,Sierra Leona,0.5
+Rusia,Eslovenia,0.5
+Rusia,Suiza,0.5
+China,Francia,0.5
+China,Reino Unido,0.5
+China,Argelia,0.5
+China,Ecuador,0.5
+China,Guyana,0.5
+China,Japón,0.5
+China,Malta,0.5
+China,Mozambique,0.5
+China,República de Corea,0.5
+China,Sierra Leona,0.5
+China,Eslovenia,0.5
+China,Suiza,0.5
+Francia,Reino Unido,0.5
+Francia,Argelia,0.5
+Francia,Ecuador,0.5
+Francia,Guyana,0.5
+Francia,Japón,0.5
+Francia,Malta,0.5
+Francia,Mozambique,0.5
+Francia,República de Corea,0.5
+Francia,Sierra Leona,0.5
+Francia,Eslovenia,0.5
+Francia,Suiza,0.5
+Reino Unido,Argelia,0.5
+Reino Unido,Ecuador,0.5
+Reino Unido,Guyana,0.5
+Reino Unido,Japón,0.5
+Reino Unido,Malta,0.5
+Reino Unido,Mozambique,0.5
+Reino Unido,República de Corea,0.5
+Reino Unido,Sierra Leona,0.5
+Reino Unido,Eslovenia,0.5
+Reino Unido,Suiza,0.5
+Argelia,Ecuador,0.5
+Argelia,Guyana,0.5
+Argelia,Japón,0.5
+Argelia,Malta,0.5
+Argelia,Mozambique,0.5
+Argelia,República de Corea,0.5
+Argelia,Sierra Leona,0.5
+Argelia,Eslovenia,0.5
+Argelia,Suiza,0.5
+Ecuador,Guyana,0.5
+Ecuador,Japón,0.5
+Ecuador,Malta,0.5
+Ecuador,Mozambique,0.5
+Ecuador,República de Corea,0.5
+Ecuador,Sierra Leona,0.5
+Ecuador,Eslovenia,0.5
+Ecuador,Suiza,0.5
+Guyana,Japón,0.5
+Guyana,Malta,0.5
+Guyana,Mozambique,0.5
+Guyana,República de Corea,0.5
+Guyana,Sierra Leona,0.5
+Guyana,Eslovenia,0.5
+Guyana,Suiza,0.5
+Japón,Malta,0.5
+Japón,Mozambique,0.5
+Japón,República de Corea,0.5
+Japón,Sierra Leona,0.5
+Japón,Eslovenia,0.5
+Japón,Suiza,0.5
+Malta,Mozambique,0.5
+Malta,República de Corea,0.5
+Malta,Sierra Leona,0.5
+Malta,Eslovenia,0.5
+Malta,Suiza,0.5
+Mozambique,República de Corea,0.5
+Mozambique,Sierra Leona,0.5
+Mozambique,Eslovenia,0.5
+Mozambique,Suiza,0.5
+República de Corea,Sierra Leona,0.5
+República de Corea,Eslovenia,0.5
+República de Corea,Suiza,0.5
+Sierra Leona,Eslovenia,0.5
+Sierra Leona,Suiza,0.5
+Eslovenia,Suiza,0.5
